@@ -130,7 +130,6 @@ mmdet3d/.mim
 
 # demo
 *.jpg
-*.png
 data/s3dis/Stanford3dDataset_v1.2_Aligned_Version/
 data/scannet/scans/
 data/sunrgbd/OFFICIAL_SUNRGBD/
@@ -142,4 +141,3 @@ mmdet3d/core/evaluation/waymo_utils/compute_detection_metrics_main
 
 # sparsebev evaluation
 outputs/
-*.txt
