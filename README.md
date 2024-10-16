@@ -1,6 +1,6 @@
 # TEOcc: **Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement**
 
-This is the official implementation of ECAI 2024 paper: **TEOcc: Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement**.
+This is the official implementation of ECAI 2024 paper: [**TEOcc: Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement**](https://arxiv.org/abs/2410.11228).
 
 
 
